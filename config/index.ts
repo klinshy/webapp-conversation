@@ -3,10 +3,10 @@ export const APP_ID = `${process.env.NEXT_PUBLIC_APP_ID}`
 export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
-  title: 'Chat APP',
-  description: '',
-  copyright: '',
-  privacy_policy: '',
+  title: 'kOS',
+  description: 'Chat with KilianS AI Assistant',
+  copyright: 'https://kilianS.website/copyright',
+  privacy_policy: 'https://kilianS.website/policy',
   default_language: 'en',
 }
 
